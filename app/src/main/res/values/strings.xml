@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+<string name="videoname">chain smoker new album 2016</string>
+    <string name="singer">ft.rihana and user</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="defaulttext">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+
+    <string-array name="names">
+
+        <item>EMPTINESS FT.JUSTIN TIBLEKAR </item>
+        <item>IM FALLING LOVE WITH YOU</item>
+        <item>BABY FT.JUSTIN BABER</item>
+        <item>U R MY WORLD</item>
+        <item>JAI HO</item>
+
+
+    </string-array>
+
+
+
+    <array name="profile_pics">
+
+    <item name="bieber">@drawable/bieber</item>
+        <item name="eminem">@drawable/eminem</item>
+        <item name="jackson">@drawable/jackson</item>
+        <item name="ludacris">@drawable/ludacris</item>
+        <item name="rehman">@drawable/rehman</item>
+   </array>
+
+
+    <string-array name="time">
+        <item>18 HOURS AGO</item>
+        <item>20 HOURS AGO</item>
+        <item>21 HOURS AGO</item>
+        <item>22 HOURS AGO</item>
+        <item>23 HOURS AGO</item>
+    </string-array>
+</resources>
